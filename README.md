@@ -16,8 +16,8 @@ Este projeto contém um programa mínimo para piscar um LED na plataforma Arduin
 
 Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplicação prática de conceitos de eletrônica e programação embarcada.
 
-| 💡 Simulação: |
+| 💡 Simulação no SimulIDE: |
 |:----------------------------------------------------------------:|
-| ![Pisca_LED](Pisca_LED.gif)                                   |
+| ![PiscaLED](PiscaLED.gif)                                   |
 
 
