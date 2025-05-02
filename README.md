@@ -1,4 +1,4 @@
-# 🚦 Pisca LED com AVR e Arduino
+# 💡Pisca LED com AVR e Arduino
 Este projeto contém um programa mínimo para piscar um LED na plataforma Arduino Uno, porém o seu desenvolvimento se dá com a utilização e programação do microcontrolador de forma direta, sem a utilização do que chamamos framework Arduino.
 
 🛠 Tecnologias e Componentes Utilizados:
