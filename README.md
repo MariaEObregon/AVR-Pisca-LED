@@ -18,6 +18,6 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 
 | 💡 Simulação: |
 |:----------------------------------------------------------------:|
-| ![Pisca LED](PiscaLED.gif)                                   |
+| ![Pisca_LED](Pisca_LED.gif)                                   |
 
 
